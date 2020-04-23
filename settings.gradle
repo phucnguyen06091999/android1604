@@ -1,0 +1,2 @@
+rootProject.name='RecycleViewEmail'
+include ':app'
